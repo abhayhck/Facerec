@@ -1,0 +1,13 @@
+id, name, age, designation, email,year,Department,semester
+100, Abhay Pandey,20,student,abhayp1334@gmail.com,2nd,Computer Science,3rd
+101,George,40,faculty,George@example.com,4th,Computer Science,
+102,Gwen,22,student,gwen@example.com,4th,Computer Science,6th
+103, Anuj Rathour,20,student,anujrathour@example.com,3rd,Computer Science,8th
+104, Anurag Dubey,21,student,anuragdubey@gmail.com,1st,Computer Science,3rd
+105, Dikshant,20,student,Dikshant@gmail.com,2nd,Mechanical,2nd
+106, Elon Musk,50,faculty,elonmusk@gmail.com,3rd,Electronic,
+107, Harsh Diggal,20,student,harshdiggal@gmail.com,4th,Electrical,5th
+108, Jeff Bezos,55,faculty,jeffbezos@example.com,1st,Computer Science,
+109, Stuart,35,faculty,stuart@example.com,3rd,Mechanical,
+110, Tapesh,31,faculty,tapeshsingh@gmail.com,2nd,Electrical,
+111,kevin,39,Faculty,kewin@example.com,4th,Computer Science,
