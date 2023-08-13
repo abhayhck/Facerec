@@ -1,4 +1,7 @@
 Project Description: Office Visitor Management System with Face Recognition and DeepFace Analysis
+
+Project Video -https://youtu.be/Mrj4kjESqTU
+
 Overview:
 The Office Visitor Management System using face recognition and DeepFace aims to enhance the security and efficiency of managing visitors in an office environment. The system leverages advanced facial recognition techniques to identify individuals and retrieve relevant information from a database, including name, gender, and work profile if available. Additionally, the system will analyze the visitor's emotions for a more personalized experience. In cases where the visitor is unknown, the system will make educated guesses about their gender, age, and emotions.
 
